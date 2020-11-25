@@ -38,7 +38,7 @@ git tag --list
 Required APIs
 =============
 For the VPC services to deploy, the following APIs should be enabled in your project:
- * iam.googleapis.com
+ * `iam.googleapis.com`
 
 Testing
 =======
