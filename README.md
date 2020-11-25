@@ -39,7 +39,6 @@ Required APIs
 =============
 For the VPC services to deploy, the following APIs should be enabled in your project:
  * iam.googleapis.com
- * secretmanager.googleapis.com
 
 Testing
 =======
